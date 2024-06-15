@@ -1,1 +1,9 @@
-adicionar descrição e foto do projeto depois que terminar
+[Projeto de estudo]
+
+Bootstrap web application
+
+Tecnologias:
+HTML
+CSS
+Javascript
+Bootstrap
