@@ -1,0 +1,49 @@
+.bg-primary-color {
+  background-color: #fff;
+}
+.bg-seconary-color {
+  background-color: #ece8ea;
+}
+
+.bg-dark-color {
+  background-color: #000;
+}
+
+.primary-color {
+  color: #000;
+}
+
+.seconary-color {
+  color: #000;
+}
+
+#navbar {
+  border-bottom: 1px solid #7a7a7a;
+}
+
+#navbar a:hover {
+  color: #7a7a7a;
+}
+
+#navbar a.active {
+  border-bottom: 1px solid #000;
+}
+
+.navbar-brand {
+  display: flex;
+}
+
+.navbar-brand img {
+  width: 40px;
+}
+
+.navbar-brand span {
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+#navbar-items .navbar-nav {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
