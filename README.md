@@ -3,7 +3,7 @@
 Bootstrap web application
 
 Tecnologias:
-HTML
-CSS
-Javascript
+HTML, 
+CSS, 
+Javascript, 
 Bootstrap
