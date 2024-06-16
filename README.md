@@ -1,11 +1,9 @@
 [Projeto de estudo]
 
-Deploy feito no vercel: https://bootstrap-web-app-sable.vercel.app/
-
 Bootstrap web application
 
-Tecnologias:
-HTML, 
-CSS, 
-Javascript, 
-Bootstrap
+Deploy feito no vercel: https://bootstrap-web-app-sable.vercel.app/
+
+Aplicação desenvolvida com HTML, CSS, Bootstrap, Javascript, 100% responsivo
+
+
